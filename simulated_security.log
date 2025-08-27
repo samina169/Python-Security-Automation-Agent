@@ -1,0 +1,12 @@
+User 'admin' failed login attempt from IP 192.168.1.10
+INFO: Normal application activity.
+Port scan detected on TCP port 443 from IP 203.0.113.5
+User 'guest' failed login attempt from IP 192.168.1.10
+INFO: User 'manager' logged in successfully.
+Suspicious file access by user 'dev' to /etc/passwd
+User 'admin' failed login attempt from IP 192.168.1.10
+INFO: Normal application activity.
+Port scan detected on TCP port 443 from IP 203.0.113.5
+User 'guest' failed login attempt from IP 192.168.1.10
+INFO: User 'manager' logged in successfully.
+Suspicious file access by user 'dev' to /etc/passwd
